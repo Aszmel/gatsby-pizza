@@ -1,4 +1,3 @@
-//reusable component for navigating throug pages
 import React from 'react';
 import { Link } from 'gatsby';
 
